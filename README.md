@@ -1,2 +1,2 @@
-# Git Lab #2
-## First team member: Zachary Carson
+# The second Git Lab
+## Second team member: Zachary Carson
