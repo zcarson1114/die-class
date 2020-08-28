@@ -9,3 +9,4 @@ Question 4: * header
             master
 Question 5: .gitignore, die.h, first-answers.md, README.md, second-answers.md
 Question 6: .gitignore, first-answers.md, README.md, second-answers.md
+Question 7: No
